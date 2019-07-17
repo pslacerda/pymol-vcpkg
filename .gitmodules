@@ -1,0 +1,6 @@
+[submodule "vcpkg"]
+	path = vcpkg
+	url = https://github.com/Microsoft/vcpkg.git
+[submodule "pymol-open-source"]
+	path = pymol-open-source
+	url = https://github.com/schrodinger/pymol-open-source.git

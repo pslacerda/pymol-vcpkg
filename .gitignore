@@ -1,0 +1,4 @@
+.mypy_cache
+.initialized
+.vscode
+vcpkg/pymol-build
