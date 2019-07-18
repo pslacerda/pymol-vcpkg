@@ -2,3 +2,4 @@
 .initialized
 .vscode
 vcpkg/pymol-build
+dist/
